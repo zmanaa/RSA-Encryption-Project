@@ -12,6 +12,6 @@ Done for Discrete Mathematics course as a final course project in partial satisf
 5. For the file named *__decypertext.txt__*, it contains the text after the decryption process.
 
 
-### Copyrights
+
 © __Zeyad Manaa__.\
 Zewail City - University of Science and Technology - 2020
